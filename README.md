@@ -1,4 +1,4 @@
-# PetFacialExpressionClassifier
+# Pet Facial Expression Classifier
 Pets Facial Expression Classifier using Convolutional Neural Network
 
 ![Screenshot 2023-09-24 at 8 14 59 PM](https://github.com/FreyasCode/PetFacialExpressionClassifier/assets/90144872/14bc5279-c4d8-4ad6-9b9a-b3ce78f0d05b)
